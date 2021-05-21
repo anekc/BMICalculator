@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BMICalculator"
+    }
+  },
+  "defaultProject": "BMICalculator",
+  "cli": {
+    "analytics": "da862162-605b-4f4a-b578-8c686937ff4d"
+  }
 }
